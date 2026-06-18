@@ -8,5 +8,5 @@
 		    }
 		move_bounce_all(true); // Set the bounce angle
 		if speed < 12 speed += 0.1; // Make the ball faster
-		audio_play_sound(snd_Break, 0, false);
+		audio_play_sound(snd_break, 0, false);
 		instance_destroy(other); // Destroy the "other" object in the collision, ie: the brick
