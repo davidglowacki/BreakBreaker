@@ -19,7 +19,13 @@
   },
   "name":"BreakOut",
   "resources":[
+    {"id":{"name":"obj_Ball","path":"objects/obj_Ball/obj_Ball.yy",},},
+    {"id":{"name":"obj_Bat","path":"objects/obj_Bat/obj_Bat.yy",},},
+    {"id":{"name":"obj_Brick","path":"objects/obj_Brick/obj_Brick.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"snd_bounce","path":"sounds/snd_bounce/snd_bounce.yy",},},
+    {"id":{"name":"snd_break","path":"sounds/snd_break/snd_break.yy",},},
+    {"id":{"name":"snd_click","path":"sounds/snd_click/snd_click.yy",},},
     {"id":{"name":"spr_Ball","path":"sprites/spr_Ball/spr_Ball.yy",},},
     {"id":{"name":"spr_Bat","path":"sprites/spr_Bat/spr_Bat.yy",},},
     {"id":{"name":"spr_Brick","path":"sprites/spr_Brick/spr_Brick.yy",},},
